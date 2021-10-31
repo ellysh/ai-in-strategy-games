@@ -1,0 +1,27 @@
+mainmatter:
+
+  foreword.md
+
+  GameTheory/README.md
+  GameTheory/history.md
+  GameTheory/basics.md
+  GameTheory/game-representations.md
+
+  ArtificialIntelligence/README.md
+  ArtificialIntelligence/history.md
+  ArtificialIntelligence/bsics.md
+
+  Chess/README.md
+  Chess/game.md
+  Chess/ai.md
+
+  Starcraft2/README.md
+  Starcraft2/game.md
+  Starcraft2/alphastar.md
+
+  Dota2/README.md
+  Dota2/game.md
+  Dota2/openai.md
+
+  glossary.md
+  links.md
