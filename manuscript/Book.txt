@@ -6,6 +6,7 @@ mainmatter:
   GameTheory/history.md
   GameTheory/basics.md
   GameTheory/game-representations.md
+  GameTheory/summary.md
 
   ArtificialIntelligence/README.md
   ArtificialIntelligence/history.md
