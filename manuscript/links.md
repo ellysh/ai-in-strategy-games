@@ -18,9 +18,11 @@
 
 * Цикл статей об игровом балансе ["Game Balance Concepts"](https://gamebalanceconcepts.wordpress.com/2010/07/07/level-1-intro-to-game-balance/).
 
+## Искусственный интеллект
 
+* [ИИ в видеоиграх](https://en.wikipedia.org/wiki/Artificial_intelligence_in_video_games)
 
-
+* [Достижения ИИ](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence)
 
 # Ссылки на переработку
 
