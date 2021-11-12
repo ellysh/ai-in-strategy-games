@@ -20,6 +20,12 @@
 
 ## Искусственный интеллект
 
+### На русском языке
+
+* Книга ["Искусственный интеллект. Современный подход"](http://www.rriai.org.ru) Стюарт Рассел, Питер Норвиг.
+
+### На английском языке
+
 * [ИИ в видеоиграх](https://en.wikipedia.org/wiki/Artificial_intelligence_in_video_games)
 
 * [Достижения ИИ](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence)
