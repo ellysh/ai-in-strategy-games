@@ -28,6 +28,8 @@
 
 * [Статья о перцептроне Розенблатта](https://habr.com/ru/company/sberdevices/blog/529932/)
 
+* [Статья о логицизме в ИИ](https://brickofknowledge.com/articles/logic-and-artificial-intelligence#header0)
+
 * Книга ["Искусственный интеллект. Современный подход"](http://www.rriai.org.ru) Стюарт Рассел, Питер Норвиг.
 
 * Книга "Глубокое обучение" Ян Гудфеллоу, Иошуа Бенджио, Аарон Курвилль.
