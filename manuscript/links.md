@@ -24,6 +24,10 @@
 
 * [Цикл статей о моделирования работы мозга](https://habr.com/ru/post/214109/) Алексей Редозубова.
 
+* Цикл статей по истории ИИ: [часть 1](https://habr.com/ru/post/21863/), [часть 2](https://habr.com/ru/post/21983/), [часть 3](https://habr.com/ru/post/25605/).
+
+* [Статья о малоизвестных фактах из истории ИИ](https://habr.com/ru/post/454064/)
+
 * [Статья об искусственном нейроне Мак-Каллока-Питтса](https://habr.com/ru/company/sberdevices/blog/525508/).
 
 * [Статья о перцептроне Розенблатта](https://habr.com/ru/company/sberdevices/blog/529932/)
