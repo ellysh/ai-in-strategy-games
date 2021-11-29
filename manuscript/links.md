@@ -46,15 +46,20 @@
 
 * ["История языка Lisp"](http://www-formal.stanford.edu/jmc/history/lisp/lisp.html) Джон Маккарти.
 
-* [Статья о технике means–ends analysis](https://www.section.io/engineering-education/basics-of-means-end-analysis-in-ai/)
-
-* [ИИ в видеоиграх](https://en.wikipedia.org/wiki/Artificial_intelligence_in_video_games)
-
 * [Достижения ИИ](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence)
 
 * Статья ["Early Artificial Intelligence Projects"](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
 
+* [Отчёт Лайтхилла](http://www.chilton-computing.org.uk/inf/literature/reports/lighthill_report/contents.htm)
+
+------------------------------------
+
 # Ссылки на переработку
+
+* [Статья о технике means–ends analysis](https://www.section.io/engineering-education/basics-of-means-end-analysis-in-ai/)
+
+* [ИИ в видеоиграх](https://en.wikipedia.org/wiki/Artificial_intelligence_in_video_games)
+
 
 ## Компьютерные игры
 
