@@ -30,7 +30,7 @@
 
 * Статья ["Нерассказанная история ИИ"](https://habr.com/ru/post/454064/)
 
-* [Статья об искусственном нейроне Мак-Каллока-Питтса](https://habr.com/ru/company/sberdevices/blog/525508/).
+* [Статья об искусственном нейроне Мак-Каллока и Питтса](https://habr.com/ru/company/sberdevices/blog/525508/).
 
 * [Статья о перцептроне Розенблатта](https://habr.com/ru/company/sberdevices/blog/529932/)
 
