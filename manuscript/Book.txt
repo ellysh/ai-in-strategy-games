@@ -24,5 +24,11 @@ mainmatter:
   Dota2/game.md
   Dota2/openai.md
 
+  Play-Against-AI/README.md
+  Play-Against-AI/turn-based-strategy.md
+  Play-Against-AI/real-time-strategy.md
+
+  finalwords.md
+
   glossary.md
   links.md
