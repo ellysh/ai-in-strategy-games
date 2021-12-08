@@ -34,13 +34,7 @@
 
 * [Статья о перцептроне Розенблатта](https://habr.com/ru/company/sberdevices/blog/529932/)
 
-* [Статья о логицизме в ИИ](https://brickofknowledge.com/articles/logic-and-artificial-intelligence#header0)
-
-* Книга ["Искусственный интеллект. Современный подход"](http://www.rriai.org.ru) Стюарт Рассел, Питер Норвиг.
-
-* Книга "Глубокое обучение" Ян Гудфеллоу, Иошуа Бенджио, Аарон Курвилль.
-
-* Книга "Нейронные сети. Полный курс" Саймон Хайкин.
+* [Статья о логическом программировании в ИИ](https://brickofknowledge.com/articles/logic-and-artificial-intelligence#header0)
 
 ### На английском языке
 
@@ -51,6 +45,17 @@
 * Статья ["Early Artificial Intelligence Projects"](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
 
 * [Отчёт Лайтхилла](http://www.chilton-computing.org.uk/inf/literature/reports/lighthill_report/contents.htm)
+
+## Искусственный интеллект
+
+### На русском языке
+
+* Книга ["Искусственный интеллект. Современный подход"](http://www.rriai.org.ru) Стюарт Рассел, Питер Норвиг.
+
+* Книга "Глубокое обучение" Ян Гудфеллоу, Иошуа Бенджио, Аарон Курвилль.
+
+* Книга "Нейронные сети. Полный курс" Саймон Хайкин.
+
 
 ------------------------------------
 
