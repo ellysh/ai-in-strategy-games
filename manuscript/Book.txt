@@ -14,8 +14,10 @@ mainmatter:
   ArtificialIntelligence/summary.md
 
   Chess/README.md
-  Chess/game.md
-  Chess/ai.md
+  Chess/game-theory.md
+  Chess/ai-theory.md
+  Chess/ai-systems.md
+  Chess/man-vs-ai.md
 
   Starcraft2/README.md
   Starcraft2/game.md
