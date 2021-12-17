@@ -56,6 +56,13 @@
 
 * Книга "Нейронные сети. Полный курс" Саймон Хайкин.
 
+### На английском языке
+
+* Статья ["Machine Learning: a brief breakdown"](https://quantdare.com/machine-learning-a-brief-breakdown/)
+
+* Статья ["What is the difference between Deep Learning and Machine Learning?"](https://quantdare.com/what-is-the-difference-between-deep-learning-and-machine-learning/)
+
+* Статья ["What is the difference between feature extraction and feature selection?"](https://quantdare.com/what-is-the-difference-between-feature-extraction-and-feature-selection/)
 
 ------------------------------------
 
