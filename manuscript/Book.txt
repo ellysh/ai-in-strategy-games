@@ -11,6 +11,8 @@ mainmatter:
   ArtificialIntelligence/README.md
   ArtificialIntelligence/history.md
   ArtificialIntelligence/basics.md
+  ArtificialIntelligence/searching-algorithms.md
+  ArtificialIntelligence/machine-learning.md
   ArtificialIntelligence/summary.md
 
   Chess/README.md
