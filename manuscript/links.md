@@ -64,6 +64,8 @@
 
 * Статья ["What is the difference between feature extraction and feature selection?"](https://quantdare.com/what-is-the-difference-between-feature-extraction-and-feature-selection/)
 
+* [Вводное руководство по ИИ](https://www.javatpoint.com/artificial-intelligence-tutorial).
+
 ------------------------------------
 
 # Ссылки на переработку
