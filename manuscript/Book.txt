@@ -10,7 +10,7 @@ mainmatter:
 
   ArtificialIntelligence/README.md
   ArtificialIntelligence/history.md
-  ArtificialIntelligence/basics.md
+  ArtificialIntelligence/intelligent-agent.md
   ArtificialIntelligence/classical-search.md
   ArtificialIntelligence/adversarial-search.md
   ArtificialIntelligence/machine-learning.md
