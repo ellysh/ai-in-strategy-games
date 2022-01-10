@@ -11,6 +11,7 @@ mainmatter:
   ArtificialIntelligence/README.md
   ArtificialIntelligence/history.md
   ArtificialIntelligence/intelligent-agent.md
+  ArtificialIntelligence/formal-logic.md
   ArtificialIntelligence/classical-search.md
   ArtificialIntelligence/adversarial-search.md
   ArtificialIntelligence/machine-learning.md
