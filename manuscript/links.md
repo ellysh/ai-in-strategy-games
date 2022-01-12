@@ -50,15 +50,19 @@
 
 ### На русском языке
 
-* Статья ["Пережевывая логистическую регрессию"](https://habr.com/ru/post/485872/).
-
 * Книга ["Искусственный интеллект. Современный подход"](http://www.rriai.org.ru) Стюарт Рассел, Питер Норвиг.
 
 * Книга "Глубокое обучение" Ян Гудфеллоу, Иошуа Бенджио, Аарон Курвилль.
 
 * Книга "Нейронные сети. Полный курс" Саймон Хайкин.
 
+* Статья ["Пережевывая логистическую регрессию"](https://habr.com/ru/post/485872/).
+
+* [Открытый курс машинного обучения](https://habr.com/ru/company/ods/blog/322626/) от Юрия Кашницкого.
+
 ### На английском языке
+
+* Статья ["Difference Between Algorithm and Model in Machine Learning"](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/)
 
 * Статья ["Machine Learning: a brief breakdown"](https://quantdare.com/machine-learning-a-brief-breakdown/)
 
@@ -67,6 +71,10 @@
 * Статья ["What is the difference between feature extraction and feature selection?"](https://quantdare.com/what-is-the-difference-between-feature-extraction-and-feature-selection/)
 
 * [Вводное руководство по ИИ](https://www.javatpoint.com/artificial-intelligence-tutorial).
+
+* [Open Machine Learning Course](https://mlcourse.ai/book/index.html) от Юрия Кашницкого.
+
+* [Machine Learning for Artists](https://ml4a.github.io/ml4a/).
 
 ------------------------------------
 
