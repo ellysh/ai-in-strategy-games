@@ -60,6 +60,8 @@
 
 * [Открытый курс машинного обучения](https://habr.com/ru/company/ods/blog/322626/) от Юрия Кашницкого.
 
+* Видеокурс ["Машинное обучение"](https://github.com/esokolov/ml-course-hse) на ФКН ВШЭ от Евгения Соколова.
+
 ### На английском языке
 
 * Статья ["Difference Between Algorithm and Model in Machine Learning"](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/)
