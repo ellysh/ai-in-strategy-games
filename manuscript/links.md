@@ -74,6 +74,8 @@
 
 * [Вводное руководство по ИИ](https://www.javatpoint.com/artificial-intelligence-tutorial).
 
+* [Вводное руководство по машинному обучению](https://www.javatpoint.com/machine-learning)
+
 * [Open Machine Learning Course](https://mlcourse.ai/book/index.html) от Юрия Кашницкого.
 
 * [Machine Learning for Artists](https://ml4a.github.io/ml4a/).
