@@ -62,6 +62,8 @@
 
 * Видеокурс ["Машинное обучение"](https://github.com/esokolov/ml-course-hse) на ФКН ВШЭ от Евгения Соколова.
 
+* ["Учебник по машинному обучению"](https://ml-handbook.ru) от Яндекс.
+
 ### На английском языке
 
 * Статья ["Difference Between Algorithm and Model in Machine Learning"](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/)
