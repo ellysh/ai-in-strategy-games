@@ -62,7 +62,9 @@
 
 * Видеокурс ["Машинное обучение"](https://github.com/esokolov/ml-course-hse) на ФКН ВШЭ от Евгения Соколова.
 
-* ["Учебник по машинному обучению"](https://ml-handbook.ru) от Яндекс.
+* ["Учебник по машинному обучению"](https://ml-handbook.ru) от Яндекс ШАД.
+
+* Курс ["Practical RL"](https://github.com/yandexdataschool/Practical_RL) от Яндекс ШАД.
 
 ### На английском языке
 
@@ -78,9 +80,14 @@
 
 * [Вводное руководство по машинному обучению](https://www.javatpoint.com/machine-learning)
 
+* [Вводное руководство по обучению с подкреплением](https://www.javatpoint.com/reinforcement-learning)
+
 * [Open Machine Learning Course](https://mlcourse.ai/book/index.html) от Юрия Кашницкого.
 
 * [Machine Learning for Artists](https://ml4a.github.io/ml4a/).
+
+* Курс университета Berkeley ["Deep Reinforcement Learning"](http://rail.eecs.berkeley.edu/deeprlcourse/)
+
 
 ------------------------------------
 
