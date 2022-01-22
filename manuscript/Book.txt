@@ -36,6 +36,6 @@ mainmatter:
   Play-Against-AI/real-time-strategy.md
 
   finalwords.md
-
+  appendix.md
   glossary.md
   links.md
