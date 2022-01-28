@@ -2,8 +2,8 @@
 
 from sklearn import datasets
 from sklearn.linear_model import SGDClassifier
-import copy
 import matplotlib.pyplot as plt
+import copy
 
 # Загрузить набор данных ирисы Фишера
 iris = datasets.load_iris()
@@ -31,15 +31,14 @@ plt.ylabel("Ширина чашелистника, см")
 plt.scatter(x[:, 0], x[:, 1], c=y, edgecolor="k")
 
 # Нарисовать границу между классами
-x_min, x_max = plt.xlim()
-y_min, y_max = plt.ylim()
+x1_min, x1_max = plt.xlim()
 coef = sgdc.coef_
 intercept = sgdc.intercept_
 
-def calculate_y(x):
-  return (-(x * coef[0, 0]) - intercept[0]) / coef[0, 1]
+def calculate_x2(x1):
+  return (-intercept[0] - (x1 * coef[0, 0])) / coef[0, 1]
 
-plt.plot([x_min, x_max], [calculate_y(x_min), calculate_y(x_max)], ls="--", color="blue")
+plt.plot([x1_min, x1_max], [calculate_x2(x1_min), calculate_x2(x1_max)], ls="--", color="blue")
 
 # Открыть окно с графиком
 plt.show()
