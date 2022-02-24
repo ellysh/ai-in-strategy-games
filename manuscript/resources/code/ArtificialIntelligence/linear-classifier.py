@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from sklearn import datasets
-from sklearn.linear_model import SGDClassifier
+from sklearn import linear_model
 import matplotlib.pyplot as plt
 import copy
 
@@ -15,7 +15,7 @@ y_setosa = copy.copy(y)
 y_setosa[y_setosa > 0] = 1
 
 # Создать объект классификатора для логистической регрессии
-sgdc = SGDClassifier(loss='log', random_state=42)
+sgdc = linear_model.SGDClassifier(loss='log', random_state=42)
 sgdc.fit(x, y_setosa)
 
 # Вывести ошибку обучения

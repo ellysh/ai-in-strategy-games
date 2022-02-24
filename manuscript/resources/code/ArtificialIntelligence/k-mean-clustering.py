@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 
-from sklearn.datasets import make_blobs
-from sklearn.cluster import KMeans
+from sklearn import datasets
+from sklearn import cluster
 import matplotlib.pyplot as plt
 
 # Сгенерировать набор точек
-X, y_true = make_blobs(n_samples=300, centers=50,
-                       cluster_std=2.00, random_state=0,
-                       center_box=(4, 50))
+X, y_true = datasets.make_blobs(n_samples=300, centers=50,
+                                cluster_std=2.00, random_state=0,
+                                center_box=(4, 50))
 
 # Создать объект для кластеризации точек методом k-средних
-kmeans = KMeans(n_clusters=4, random_state=0)
+kmeans = cluster.KMeans(n_clusters=4, random_state=0)
 kmeans.fit(X)
 
 # Подготовить объект Figure

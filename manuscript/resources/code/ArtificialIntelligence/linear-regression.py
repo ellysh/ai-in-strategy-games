@@ -2,7 +2,7 @@
 
 from sklearn import datasets
 from sklearn import linear_model
-from sklearn.model_selection import train_test_split
+from sklearn import model_selection
 import matplotlib.pyplot as plt
 
 # Сгенерировать набор точек
@@ -14,8 +14,9 @@ x_aligned = [(e + 3) * 800 for e in x]
 y_aligned = [23000 - (e + 150) * 23 for e in y]
 
 # Разделить точки на обучающий и тестовый наборы
-x_train, x_test, y_train, y_test = train_test_split(x_aligned, y_aligned,
-                                                    test_size=0.15)
+x_train, x_test, y_train, y_test = \
+    model_selection.train_test_split(x_aligned, y_aligned,
+                                     test_size=0.15)
 
 # Создать модель для линейниной регрессии
 regr = linear_model.LinearRegression()
@@ -23,7 +24,7 @@ regr = linear_model.LinearRegression()
 # Обучить модель методом наименьших квадратов
 regr.fit(x_train, y_train)
 
-# Получить предсказания модели для тестовго набора данных
+# Получить предсказания модели для тестового набора данных
 y_pred = regr.predict(x_test)
 
 # Подготовить объект Figure
