@@ -7,10 +7,11 @@ import matplotlib.pyplot as plt
 
 # Сгенерировать набор точек
 x, y = datasets.make_regression(n_samples=100, n_features=1,
-                                random_state=42, noise=15)
+                                noise=15, random_state=42)
 
-# Change direction of the line to descent
+# Привести точки к нужным диапазонам значений
 x_aligned = [(e + 3) * 800 for e in x]
+# Развернуть направление точек с восходящего на нисходящее
 y_aligned = [23000 - (e + 150) * 23 for e in y]
 
 # Разделить точки на обучающий и тестовый наборы
