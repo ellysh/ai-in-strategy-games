@@ -88,6 +88,7 @@
 
 * Курс университета Berkeley ["Deep Reinforcement Learning"](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
+* [Наглядные примеры работы алгоритмов обучения с подкреплением](https://rl-lab.com)
 
 ------------------------------------
 
