@@ -90,6 +90,10 @@
 
 * [Наглядные примеры работы алгоритмов обучения с подкреплением](https://rl-lab.com)
 
+* [Сравнение value-based и policy-based подходов](https://stats.stackexchange.com/questions/407230/what-is-the-difference-between-policy-based-on-policy-value-based-off-policy)
+
+* [Современные методы обучения с подкреплением](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html)
+
 ## Шахматные программы
 
 * Книга ["Человек и компьютер: Взгляд в будущее"](https://alpinabook.ru/catalog/book-chelovek-i-kompyuter) Гарри Каспаров.
