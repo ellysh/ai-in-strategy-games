@@ -80,6 +80,8 @@
 
 * [Вводное руководство по машинному обучению](https://www.javatpoint.com/machine-learning)
 
+* [Цикл статей "Deep Reinforcement Learning"](https://julien-vitay.net/deeprl/Introduction.html#sec:introduction) от Julien Vitay
+
 * [Вводное руководство по обучению с подкреплением](https://www.javatpoint.com/reinforcement-learning)
 
 * [Open Machine Learning Course](https://mlcourse.ai/book/index.html) от Юрия Кашницкого.
