@@ -1,6 +1,6 @@
 # Ссылки на ресурсы
 
-## Теория игр
+## Теория игр, психология и экономика
 
 ### На русском языке
 
@@ -13,6 +13,10 @@
 * Статья ["Основы игрового баланса: Детерминированные, недетерминированные и разрешимые игры"](https://vc.ru/education/9633-game-balance).
 
 * Книга ["Стратегические игры"](https://www.ozon.ru/product/strategicheskie-igry-dostupnyy-uchebnik-po-teorii-igr-141590867/?sh=hHASgpX) Авинаш Диксит, Сьюзан Скит.
+
+* Книга ["Предсказуемая иррациональность"](https://www.litres.ru/den-arieli/predskazuemaya-irracionalnost) Дэн Ариэли.
+
+* Книга ["Думай медленно решай быстро"](https://www.litres.ru/daniel-kaneman/dumay-medlenno-reshay-bystro) Даниэль Канеман
 
 ### На английском языке
 
