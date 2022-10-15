@@ -20,6 +20,8 @@ mainmatter:
   Chess/README.md
   Chess/game-theory.md
   Chess/chess-theory.md
+  Chess/psychology.md
+
   Chess/ai-theory.md
   Chess/ai-systems.md
   Chess/man-vs-ai.md
