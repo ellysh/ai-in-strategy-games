@@ -16,7 +16,9 @@
 
 * Книга ["Предсказуемая иррациональность"](https://www.litres.ru/den-arieli/predskazuemaya-irracionalnost) Дэн Ариэли.
 
-* Книга ["Думай медленно решай быстро"](https://www.litres.ru/daniel-kaneman/dumay-medlenno-reshay-bystro) Даниэль Канеман
+* Книга ["Думай медленно решай быстро"](https://www.litres.ru/daniel-kaneman/dumay-medlenno-reshay-bystro) Даниэль Канеман.
+
+* Книга ["Источники силы. Как люди принимают решения"](https://www.litres.ru/geri-klayn/istochniki-sily-64696611/) Гэри Клайн.
 
 ### На английском языке
 
