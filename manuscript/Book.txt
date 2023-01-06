@@ -22,7 +22,8 @@ mainmatter:
   Chess/chess-theory.md
   Chess/psychology.md
   Chess/ai-theory.md
-  Chess/ai-systems.md
+  Chess/chess-programs-history.md
+  Chess/modern-chess-engines.md
   Chess/man-vs-ai.md
 
   Starcraft2/README.md
