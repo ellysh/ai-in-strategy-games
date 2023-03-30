@@ -118,11 +118,14 @@
 
 * [Интервью с разработчиком Stockfish Михаилом Чалым](https://www.youtube.com/watch?v=2vBxlnrqenI)
 
-* [Интервью с разработчиком AlphaZero Ненадом Томашевым](https://www.youtube.com/watch?v=hrQOKD1t2ZA)
-
 * [Краткий обзор алгоритмов современных шахматных движков](https://habr.com/ru/post/390821/)
 
 * Книга ["Behind Deep Blue"](https://readli.net/dip-blyu-lp) Фэн Сюн Сю
+
+### На английском языке
+
+* [Интервью с разработчиком AlphaZero Ненадом Томашевым](https://www.youtube.com/watch?v=hrQOKD1t2ZA)
+
 
 ------------------------------------
 
