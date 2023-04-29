@@ -126,6 +126,7 @@
 
 * [Интервью с разработчиком AlphaZero Ненадом Томашевым](https://www.youtube.com/watch?v=hrQOKD1t2ZA)
 
+* Книга ["Neural Networks For Chess: The magic of deep and reinforcementlearning revealed"](https://github.com/asdfjkl/neural_network_chess) Dominik Klein
 
 ------------------------------------
 
