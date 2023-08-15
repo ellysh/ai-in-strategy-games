@@ -102,6 +102,8 @@
 
 * [Современные методы обучения с подкреплением](https://spinningup.openai.com/en/latest/spinningup/rl_intro2.html)
 
+* [Статья "Who Invented Backpropagation?"](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
+
 ## Шахматы и шахматные программы
 
 ### На русском языке
