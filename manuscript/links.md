@@ -130,7 +130,7 @@
 
 * Книга ["Neural Networks For Chess: The magic of deep and reinforcementlearning revealed"](https://github.com/asdfjkl/neural_network_chess) Dominik Klein
 
-* [Подробное описание работы сети NNUE от разработчиков](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md)
+* [Подробное описание работы сети Stockfish NNUE от разработчиков](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md)
 
 ------------------------------------
 
