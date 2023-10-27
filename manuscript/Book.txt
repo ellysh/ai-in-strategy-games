@@ -26,19 +26,7 @@ mainmatter:
   Chess/modern-chess-engines.md
   Chess/man-vs-ai.md
 
-  Starcraft2/README.md
-  Starcraft2/game.md
-  Starcraft2/alphastar.md
-
-  Dota2/README.md
-  Dota2/game.md
-  Dota2/openai.md
-
-  Play-Against-AI/README.md
-  Play-Against-AI/turn-based-strategy.md
-  Play-Against-AI/real-time-strategy.md
-
-  finalwords.md
   appendix.md
+  finalwords.md
   glossary.md
   links.md
