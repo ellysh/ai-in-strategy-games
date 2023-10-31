@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from scipy.ndimage.filters import convolve
 
 
-filter1 = np.array([ [1, 1, 1], [0, 0, 0], [-1, -1, -1] ])
+filter1 = np.array([ [1, 2, 1], [0, 0, 0], [-1, -2, -1] ])
 
 img = imread("lena.png")
 
