@@ -6,15 +6,17 @@ import matplotlib.pyplot as plt
 from scipy.ndimage.filters import convolve
 
 
-filter1 = np.array([ [1, 2, 1], [0, 0, 0], [-1, -2, -1] ])
+#sobel_horizontal = np.array([ [1, 0, -1], [2, 0, -2], [1, 0, -1] ])
+sobel_vertical = np.array([ [1, 2, 1], [0, 0, 0], [-1, -2, -1] ])
 
 img = imread("lena.png")
 
 channels = []
 for channel in range(3):
-    res = convolve(img[:,:,channel], filter1)
+    #res = convolve(img[:,:,channel], sobel_horizontal)
+    res = convolve(img[:,:,channel], sobel_vertical)
     channels.append(res)
 
 img = np.dstack((channels[0], channels[1], channels[2]))
-plt.imshow(img)
+plt.imshow(img, cmap='gray')
 plt.show()
