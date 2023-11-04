@@ -128,9 +128,13 @@
 
 * [Интервью с разработчиком AlphaZero Ненадом Томашевым](https://www.youtube.com/watch?v=hrQOKD1t2ZA)
 
-* Книга ["Neural Networks For Chess: The magic of deep and reinforcementlearning revealed"](https://github.com/asdfjkl/neural_network_chess) Dominik Klein
+* Книга ["Neural Networks For Chess: The magic of deep and reinforcement learning revealed"](https://github.com/asdfjkl/neural_network_chess) Dominik Klein
 
 * [Подробное описание работы сети Stockfish NNUE от разработчиков](https://github.com/official-stockfish/nnue-pytorch/blob/master/docs/nnue.md)
+
+* [Статья "Convolutional Neural Network"](https://towardsdatascience.com/convolutional-neural-network-ii-a11303f807dc)
+
+* [Статья "Convolutions Over Volume"](https://medium.com/swlh/convolutional-neural-networks-part-3-convolutions-over-volume-and-the-convnet-layer-91fb7c08e28b)
 
 ------------------------------------
 
