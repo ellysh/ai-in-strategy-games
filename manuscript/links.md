@@ -124,6 +124,8 @@
 
 * Книга ["Behind Deep Blue"](https://readli.net/dip-blyu-lp) Фэн Сюн Сю
 
+* [Статья "Сверточная нейронная сеть, часть 1: структура, топология, функции активации и обучающее множество"](https://habr.com/ru/articles/348000/)
+
 ### На английском языке
 
 * [Интервью с разработчиком AlphaZero Ненадом Томашевым](https://www.youtube.com/watch?v=hrQOKD1t2ZA)
