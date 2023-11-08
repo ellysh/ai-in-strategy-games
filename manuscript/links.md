@@ -138,6 +138,8 @@
 
 * [Статья "Convolutions Over Volume"](https://medium.com/swlh/convolutional-neural-networks-part-3-convolutions-over-volume-and-the-convnet-layer-91fb7c08e28b)
 
+* [Статья "The Ultimate Guide to Convolutional Neural Networks (CNN)"](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
+
 ------------------------------------
 
 # Ссылки на переработку
