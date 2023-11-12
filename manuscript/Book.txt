@@ -1,5 +1,6 @@
 mainmatter:
 
+  version.md
   foreword.md
 
   GameTheory/README.md
