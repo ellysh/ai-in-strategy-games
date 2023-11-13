@@ -140,6 +140,8 @@
 
 * [Статья "The Ultimate Guide to Convolutional Neural Networks (CNN)"](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
 
+* [Статья "Batch-normalization" на сайте ИТМО](https://neerc.ifmo.ru/wiki/index.php?title=Batch-normalization)
+
 ------------------------------------
 
 # Ссылки на переработку
