@@ -142,6 +142,8 @@
 
 * [Статья "Batch-normalization" на сайте ИТМО](https://neerc.ifmo.ru/wiki/index.php?title=Batch-normalization)
 
+* [Статья "What is Convolutional Neural Network — CNN (Deep Learning)"](https://nafizshahriar.medium.com/what-is-convolutional-neural-network-cnn-deep-learning-b3921bdd82d5)
+
 ------------------------------------
 
 # Ссылки на переработку
