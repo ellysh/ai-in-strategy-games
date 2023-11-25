@@ -205,7 +205,7 @@ https://highscoreesports.com/2019/07/10/spacewar-and-the-birth-of-esports/)
 
 ## Игровой ИИ
 
-* [AlphaGo: Mastering Go without Human Knowledge](https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge/)
+* [AlphaGo: Mastering Go without Human Knowledge](https://discovery.ucl.ac.uk/10045895/1/agz_unformatted_nature.pdf)
 
 * [AlphaZero: Mastering Chess and Shogi by Self-Play with aGeneral Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 
