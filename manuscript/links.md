@@ -144,6 +144,10 @@
 
 * [Статья "What is Convolutional Neural Network — CNN (Deep Learning)"](https://nafizshahriar.medium.com/what-is-convolutional-neural-network-cnn-deep-learning-b3921bdd82d5)
 
+* [AlphaGo: Mastering Go without Human Knowledge](https://discovery.ucl.ac.uk/10045895/1/agz_unformatted_nature.pdf)
+
+* [AlphaZero: Mastering Chess and Shogi by Self-Play with aGeneral Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
+
 ------------------------------------
 
 # Ссылки на переработку
@@ -204,10 +208,6 @@
 https://highscoreesports.com/2019/07/10/spacewar-and-the-birth-of-esports/)
 
 ## Игровой ИИ
-
-* [AlphaGo: Mastering Go without Human Knowledge](https://discovery.ucl.ac.uk/10045895/1/agz_unformatted_nature.pdf)
-
-* [AlphaZero: Mastering Chess and Shogi by Self-Play with aGeneral Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 
 ## ИИ
 
