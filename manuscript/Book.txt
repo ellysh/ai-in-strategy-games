@@ -27,7 +27,8 @@ mainmatter:
   Chess/modern-chess-engines.md
   Chess/man-vs-ai.md
 
-  appendix.md
   finalwords.md
+
+  appendix.md
   glossary.md
   links.md
