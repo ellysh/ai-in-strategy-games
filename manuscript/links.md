@@ -1,8 +1,8 @@
-# Ссылки на ресурсы
+# 6 Ссылки на ресурсы
 
-## Теория игр, психология и экономика
+## 6.1 Теория игр, психология и экономика
 
-### На русском языке
+### 6.1.1 На русском языке
 
 * Книга ["Теория игр и экономическое поведение"](https://drive.google.com/file/d/1iN27YOs2lWsVnIrHdvDu87LNSSwNeMOd/view) Джон фон Нейман, Оскар Моргенштерн.
 
@@ -20,13 +20,13 @@
 
 * Книга ["Источники силы. Как люди принимают решения"](https://www.litres.ru/geri-klayn/istochniki-sily-64696611/) Гэри Клайн.
 
-### На английском языке
+### 6.1.2 На английском языке
 
 * Цикл статей об игровом балансе ["Game Balance Concepts"](https://gamebalanceconcepts.wordpress.com/2010/07/07/level-1-intro-to-game-balance/).
 
-## История ИИ
+## 6.2 История ИИ
 
-### На русском языке
+### 6.2.1 На русском языке
 
 * Статья о компьютере пятого поколения ["Кто убил Prolog?"](https://habr.com/ru/post/106224/)
 
@@ -42,7 +42,7 @@
 
 * [Статья о логическом программировании в ИИ](https://brickofknowledge.com/articles/logic-and-artificial-intelligence#header0)
 
-### На английском языке
+### 6.2.2 На английском языке
 
 * ["История языка Lisp"](http://www-formal.stanford.edu/jmc/history/lisp/lisp.html) Джон Маккарти.
 
@@ -52,9 +52,9 @@
 
 * [Отчёт Лайтхилла](http://www.chilton-computing.org.uk/inf/literature/reports/lighthill_report/contents.htm)
 
-## Искусственный интеллект
+## 6.3 Искусственный интеллект
 
-### На русском языке
+### 6.3.1 На русском языке
 
 * Книга ["Искусственный интеллект. Современный подход"](http://www.rriai.org.ru) Стюарт Рассел, Питер Норвиг.
 
@@ -72,7 +72,7 @@
 
 * Курс ["Practical RL"](https://github.com/yandexdataschool/Practical_RL) от Яндекс ШАД.
 
-### На английском языке
+### 6.3.2 На английском языке
 
 * Статья ["Difference Between Algorithm and Model in Machine Learning"](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/)
 
@@ -104,9 +104,9 @@
 
 * [Статья "Who Invented Backpropagation?"](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 
-## Шахматы и шахматные программы
+## 6.4 Шахматы и шахматные программы
 
-### На русском языке
+### 6.4.1 На русском языке
 
 * Книга ["Человек и компьютер: Взгляд в будущее"](https://alpinabook.ru/catalog/book-chelovek-i-kompyuter) Гарри Каспаров.
 
@@ -120,15 +120,15 @@
 
 * [Интервью с разработчиком Stockfish Михаилом Чалым](https://www.youtube.com/watch?v=2vBxlnrqenI)
 
+* [Интервью с разработчиком AlphaZero Ненадом Томашевым](https://www.youtube.com/watch?v=hrQOKD1t2ZA)
+
 * [Краткий обзор алгоритмов современных шахматных движков](https://habr.com/ru/post/390821/)
 
 * Книга ["Behind Deep Blue"](https://readli.net/dip-blyu-lp) Фэн Сюн Сю
 
 * [Статья "Сверточная нейронная сеть, часть 1: структура, топология, функции активации и обучающее множество"](https://habr.com/ru/articles/348000/)
 
-### На английском языке
-
-* [Интервью с разработчиком AlphaZero Ненадом Томашевым](https://www.youtube.com/watch?v=hrQOKD1t2ZA)
+### 6.4.2 На английском языке
 
 * Книга ["Neural Networks For Chess: The magic of deep and reinforcement learning revealed"](https://github.com/asdfjkl/neural_network_chess) Dominik Klein
 
@@ -147,71 +147,3 @@
 * [AlphaGo: Mastering Go without Human Knowledge](https://discovery.ucl.ac.uk/10045895/1/agz_unformatted_nature.pdf)
 
 * [AlphaZero: Mastering Chess and Shogi by Self-Play with aGeneral Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
-
-------------------------------------
-
-# Ссылки на переработку
-
-* [Статья о технике means–ends analysis](https://www.section.io/engineering-education/basics-of-means-end-analysis-in-ai/)
-
-* [ИИ в видеоиграх](https://en.wikipedia.org/wiki/Artificial_intelligence_in_video_games)
-
-
-## Компьютерные игры
-
-### На русском языке
-
-* [История стратегий в реальном времени](https://habr.com/ru/post/373815/)
-
-* История игр-симуляторов: [часть 1](https://habr.com/ru/post/408067/) и [часть 2](https://habr.com/ru/post/374005/).
-
-* [История шутеров от первого лица](https://habr.com/ru/post/409095/).
-
-* [История жанра roguelike](https://habr.com/ru/post/493890/).
-
-* [История игр с открытым миром](https://habr.com/ru/post/373299/).
-
-* [История игры Dota 2](https://киберспорт.рф/dota2/history/).
-
-* [История игры League of Legends](https://киберспорт.рф/lol/history/).
-
-* [История игры Counter-Strike: Global Offensive](https://киберспорт.рф/csgo/history/).
-
-* [История игры World of Tanks](https://киберспорт.рф/wot/history/).
-
-* Книга Стива Макнилла ["Hey! Listen! Путешествие по золотому веку видеоигр"](https://www.labirint.ru/books/769104/).
-
-* Книга Тристана Донована ["Играй! История Видеоигр"](https://en.wikipedia.org/wiki/Replay:_The_History_of_Video_Games).
-
-### На английском языке
-
-* [История первой компьютерной игры Tennis for Two](https://www.aps.org/publications/apsnews/200810/physicshistory.cfm).
-
-* Книга ["History of Computer Art"](http://iasl.uni-muenchen.de/links/GCA-VII.1e.html) Thomas Dreher.
-
-* [Анализ исходного кода шашек Кристофера Стрейчи]
-(http://norvig.com/sciam/sciam.html).
-
-* [Статья о первом соревновании по Spacewar!](https://www.rollingstone.com/culture/culture-news/stewart-brand-recalls-first-spacewar-video-game-tournament-187669/)
-
-* [Видео подборка наиболее популярных аркадных игр](https://www.youtube.com/watch?v=TDBLokIOLcs).
-
-## Киберспорт
-
-* [История развития киберспорта в России и мире](https://киберспорт.рф/esport/history/).
-
-* Индустрия киберспорта: [часть 1](https://habr.com/ru/company/mailru/blog/235221/) и [часть 2](https://habr.com/ru/company/mailru/blog/364603/).
-
-* [Дисциплины в киберспорте](https://de.zxc.wiki/wiki/Disziplinen_im_E-Sport).
-
-* [Первые киберсоревнования по игре Spacewar!](
-https://highscoreesports.com/2019/07/10/spacewar-and-the-birth-of-esports/)
-
-## Игровой ИИ
-
-## ИИ
-
-* Книга Рея Курцвейла ["Эволюция разума"](https://www.goodreads.com/book/show/34658102)
-
-* Книга Блая Уитби ["Искусственный интеллект. Реальна ли Матрица"](https://www.goodreads.com/book/show/2642623-artificial-intelligence)
-
