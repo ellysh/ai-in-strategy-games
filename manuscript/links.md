@@ -1,8 +1,8 @@
-# 6 Ссылки на ресурсы
+# 7 Ссылки на ресурсы
 
-## 6.1 Теория игр, психология и экономика
+## 7.1 Теория игр, психология и экономика
 
-### 6.1.1 На русском языке
+### 7.1.1 На русском языке
 
 * Книга ["Теория игр и экономическое поведение"](https://drive.google.com/file/d/1iN27YOs2lWsVnIrHdvDu87LNSSwNeMOd/view) Джон фон Нейман, Оскар Моргенштерн.
 
@@ -20,13 +20,13 @@
 
 * Книга ["Источники силы. Как люди принимают решения"](https://www.litres.ru/geri-klayn/istochniki-sily-64696611/) Гэри Клайн.
 
-### 6.1.2 На английском языке
+### 7.1.2 На английском языке
 
 * Цикл статей об игровом балансе ["Game Balance Concepts"](https://gamebalanceconcepts.wordpress.com/2010/07/07/level-1-intro-to-game-balance/).
 
-## 6.2 История ИИ
+## 7.2 История ИИ
 
-### 6.2.1 На русском языке
+### 7.2.1 На русском языке
 
 * Статья о компьютере пятого поколения ["Кто убил Prolog?"](https://habr.com/ru/post/106224/)
 
@@ -42,7 +42,7 @@
 
 * [Статья о логическом программировании в ИИ](https://brickofknowledge.com/articles/logic-and-artificial-intelligence#header0)
 
-### 6.2.2 На английском языке
+### 7.2.2 На английском языке
 
 * ["История языка Lisp"](http://www-formal.stanford.edu/jmc/history/lisp/lisp.html) Джон Маккарти.
 
@@ -52,9 +52,9 @@
 
 * [Отчёт Лайтхилла](http://www.chilton-computing.org.uk/inf/literature/reports/lighthill_report/contents.htm)
 
-## 6.3 Искусственный интеллект
+## 7.3 Искусственный интеллект
 
-### 6.3.1 На русском языке
+### 7.3.1 На русском языке
 
 * Книга ["Искусственный интеллект. Современный подход"](http://www.rriai.org.ru) Стюарт Рассел, Питер Норвиг.
 
@@ -72,7 +72,7 @@
 
 * Курс ["Practical RL"](https://github.com/yandexdataschool/Practical_RL) от Яндекс ШАД.
 
-### 6.3.2 На английском языке
+### 7.3.2 На английском языке
 
 * Статья ["Difference Between Algorithm and Model in Machine Learning"](https://machinelearningmastery.com/difference-between-algorithm-and-model-in-machine-learning/)
 
@@ -104,9 +104,9 @@
 
 * [Статья "Who Invented Backpropagation?"](https://people.idsia.ch/~juergen/who-invented-backpropagation.html)
 
-## 6.4 Шахматы и шахматные программы
+## 7.4 Шахматы и шахматные программы
 
-### 6.4.1 На русском языке
+### 7.4.1 На русском языке
 
 * Книга ["Человек и компьютер: Взгляд в будущее"](https://alpinabook.ru/catalog/book-chelovek-i-kompyuter) Гарри Каспаров.
 
@@ -128,7 +128,7 @@
 
 * [Статья "Сверточная нейронная сеть, часть 1: структура, топология, функции активации и обучающее множество"](https://habr.com/ru/articles/348000/)
 
-### 6.4.2 На английском языке
+### 7.4.2 На английском языке
 
 * Книга ["Neural Networks For Chess: The magic of deep and reinforcement learning revealed"](https://github.com/asdfjkl/neural_network_chess) Dominik Klein
 
