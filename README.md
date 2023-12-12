@@ -6,5 +6,5 @@
 
 ## Ссылки
 
-* [Читать или загрузить с Leanpub](https://leanpub.com/strategy-games-ai)
+* [Читать или загрузить с Leanpub](https://leanpub.com/ai-in-strategy-games)
 * [Связь с автором](mailto:petrsum@gmail.com)
