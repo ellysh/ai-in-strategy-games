@@ -126,7 +126,9 @@
 
 * Книга ["Behind Deep Blue"](https://readli.net/dip-blyu-lp) Фэн Сюн Сю
 
-* [Статья "Сверточная нейронная сеть, часть 1: структура, топология, функции активации и обучающее множество"](https://habr.com/ru/articles/348000/)
+* Статья ["Сверточная нейронная сеть, часть 1: структура, топология, функции активации и обучающее множество"](https://habr.com/ru/articles/348000/)
+
+* Статья ["Метод Монте-Карло для поиска в дереве"](https://habr.com/ru/articles/282522/)
 
 ### 7.4.2 На английском языке
 
@@ -141,6 +143,14 @@
  -* Статья ["Batch-normalization" на сайте ИТМО](https://neerc.ifmo.ru/wiki/index.php?title=Batch-normalization)
 
 * Статья ["What is Convolutional Neural Network — CNN (Deep Learning)"](https://nafizshahriar.medium.com/what-is-convolutional-neural-network-cnn-deep-learning-b3921bdd82d5)
+
+* Статья ["How to implement Sobel edge detection using Python from scratch"](https://www.adeveloperdiary.com/data-science/computer-vision/how-to-implement-sobel-edge-detection-using-python-from-scratch/)
+
+* Статья Бернда Брюгманна ["Monte Carlo Go"](http://www.ideanest.com/vegos/MonteCarloGo.pdf)
+
+* Статья ["Batch, Mini Batch & Stochastic Gradient Descent"](https://towardsdatascience.com/batch-mini-batch-stochastic-gradient-descent-7a62ecba642a)
+
+* Статья Сергея Иоффе и Кристиана Сегеди ["Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"](https://arxiv.org/pdf/1502.03167.pdf)
 
 * Статья ["AlphaGo: Mastering Go without Human Knowledge"](https://discovery.ucl.ac.uk/10045895/1/agz_unformatted_nature.pdf)
 
