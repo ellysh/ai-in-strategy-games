@@ -136,14 +136,12 @@
 
 * [Статья "Convolutional Neural Network"](https://towardsdatascience.com/convolutional-neural-network-ii-a11303f807dc)
 
-* [Статья "Convolutions Over Volume"](https://medium.com/swlh/convolutional-neural-networks-part-3-convolutions-over-volume-and-the-convnet-layer-91fb7c08e28b)
+* Статья ["Convolutions Over Volume"](https://medium.com/swlh/convolutional-neural-networks-part-3-convolutions-over-volume-and-the-convnet-layer91fb7c08e28b)
+ -* Статья ["The Ultimate Guide to Convolutional Neural Networks (CNN)"](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networkscnn)
+ -* Статья ["Batch-normalization" на сайте ИТМО](https://neerc.ifmo.ru/wiki/index.php?title=Batch-normalization)
 
-* [Статья "The Ultimate Guide to Convolutional Neural Networks (CNN)"](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
+* Статья ["What is Convolutional Neural Network — CNN (Deep Learning)"](https://nafizshahriar.medium.com/what-is-convolutional-neural-network-cnn-deep-learning-b3921bdd82d5)
 
-* [Статья "Batch-normalization" на сайте ИТМО](https://neerc.ifmo.ru/wiki/index.php?title=Batch-normalization)
+* Статья ["AlphaGo: Mastering Go without Human Knowledge"](https://discovery.ucl.ac.uk/10045895/1/agz_unformatted_nature.pdf)
 
-* [Статья "What is Convolutional Neural Network — CNN (Deep Learning)"](https://nafizshahriar.medium.com/what-is-convolutional-neural-network-cnn-deep-learning-b3921bdd82d5)
-
-* [AlphaGo: Mastering Go without Human Knowledge](https://discovery.ucl.ac.uk/10045895/1/agz_unformatted_nature.pdf)
-
-* [AlphaZero: Mastering Chess and Shogi by Self-Play with aGeneral Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
+* Статья ["AlphaZero: Mastering Chess and Shogi by Self-Play with aGeneral Reinforcement Learning Algorithm"](https://arxiv.org/pdf/1712.01815.pdf)
