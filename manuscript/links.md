@@ -155,3 +155,5 @@
 * Статья ["AlphaGo: Mastering Go without Human Knowledge"](https://discovery.ucl.ac.uk/10045895/1/agz_unformatted_nature.pdf)
 
 * Статья ["AlphaZero: Mastering Chess and Shogi by Self-Play with aGeneral Reinforcement Learning Algorithm"](https://arxiv.org/pdf/1712.01815.pdf)
+
+{pagebreak}

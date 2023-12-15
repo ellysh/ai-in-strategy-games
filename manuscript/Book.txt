@@ -1,6 +1,5 @@
 mainmatter:
 
-  version.md
   epigraph.md
   foreword.md
 
@@ -33,3 +32,5 @@ mainmatter:
   appendix.md
   glossary.md
   links.md
+
+  version.md
