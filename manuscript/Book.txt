@@ -1,6 +1,7 @@
 mainmatter:
 
   version.md
+  epigraph.md
   foreword.md
 
   GameTheory/README.md
