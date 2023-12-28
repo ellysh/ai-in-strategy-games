@@ -26,6 +26,7 @@ mainmatter:
   Chess/chess-programs-history.md
   Chess/modern-chess-engines.md
   Chess/man-vs-ai.md
+  Chess/summary.md
 
   finalwords.md
 
