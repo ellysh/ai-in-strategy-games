@@ -133,7 +133,7 @@ N = 2 * n^2^ + 5 * n + 10
 | --- | --- | --- | --- | --- |
 | Поиск в ширину (BFS) | O(b^d^) | O(b^d^) | Да | Да, если стоимость всех шагов одинакова |
 |  | | | | |
-| Поиск по критерию стоимости (UCS) | ![](images/ArtificialIntelligence/ucs-complexity-formula.png) | O(b^1+C/ε^) | Да, если стоимости всех шагов строго положительны | Да, если стоимости всех шагов строго положительны |
+| Поиск по критерию стоимости (UCS) | ![](images/ArtificialIntelligence/ucs-complexity-formula.png) | ![](images/ArtificialIntelligence/ucs-complexity-formula.png) | Да, если стоимости всех шагов строго положительны | Да, если стоимости всех шагов строго положительны |
 |  | | | | |
 | Поиск в глубину (DFS) | O(b^m^) | O(b*m) | Нет | Нет |
 |  | | | | |
@@ -141,7 +141,7 @@ N = 2 * n^2^ + 5 * n + 10
 |  | | | | |
 | Поиск в глубину с итеративным углублением (IDDFS) | O(b^d^) | O(b*d) | Да | Да, если стоимость всех шагов одинакова |
 |  | | | | |
-| Дву- | O(b^d/2^) | O(b^d/2^) | Да | Да, если |
+| Дву- | ![](images/ArtificialIntelligence/bidirectional-search-complexity-formula.png) | ![](images/ArtificialIntelligence/bidirectional-search-complexity-formula.png) | Да | Да, если |
 | направленный поиск | | | | стоимость всех шагов одинакова |
 
 Для определения временной и пространственной сложности в таблице используются следующие обозначения:
