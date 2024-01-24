@@ -15,7 +15,7 @@ y_setosa = copy.copy(y)
 y_setosa[y_setosa > 0] = 1
 
 # Создать объект классификатора для логистической регрессии
-sgdc = linear_model.SGDClassifier(loss='log', random_state=42)
+sgdc = linear_model.SGDClassifier(loss='log_loss', random_state=42)
 sgdc.fit(x, y_setosa)
 
 # Вывести ошибку обучения
@@ -24,8 +24,8 @@ print("Score: ", score)
 
 # Подготовить объект Figure
 plt.figure(figsize=(8, 6))
-plt.xlabel("Длина чашелистника, см")
-plt.ylabel("Ширина чашелистника, см")
+plt.xlabel("Длина чашелистика, см")
+plt.ylabel("Ширина чашелистика, см")
 
 # Нарисовать все точки из обучающего набора
 plt.scatter(x[:, 0], x[:, 1], c=y, edgecolor="k")
