@@ -648,39 +648,24 @@ I> Одноруким бандитом называется [слот-машин
 
 После завершения обучения мы получим два агента для игры в крестики-нолики A и B.
 
-Приложение 5.1.4 подробно описывает Python скрипт с применением алгоритма Q-learning. Скрипт также доступен на страничке [Github](https://github.com/ellysh/ai-in-strategy-games/blob/master/manuscript/resources/code/ArtificialIntelligence/linear-regression.py).
+Приложение 5.1.4 подробно описывает Python скрипт с применением алгоритма Q-learning. Скрипт также доступен на страничке [Github](https://github.com/ellysh/ai-in-strategy-games/blob/master/manuscript/resources/code/ArtificialIntelligence/q-learning.py).
 
->>>
+Какие алгоритмы обучения с подкреплением наиболее популярны? Среди алгоритмов, основанных на стратегии, чаще всего применяют следующие:
 
-Эволюционные алгоритмы плохо справляются со сложными задачами. Кроме того они требуют значительных вычислительных ресурсов и времени. Сегодня более популярны две группы методов, которые можно отнести к (policy-based):
+* [**REINFORCE**](https://saturncloud.io/glossary/reinforce-algorithm/) или **Monte Carlo Policy Gradient** — фундаментальный policy-based алгоритм. Он напрямую оптимизирует эффективность стратегии. Для этого алгоритм корректирует её параметры в направлении увеличения совокупного вознаграждения. На нём основаны многие policy-based алгоритмы, которые исправляют его недостатки.
 
-1. [Policy gradient](https://jonathan-hui.medium.com/rl-policy-gradients-explained-9b13b688b146) — алгоритмы обучения этой группы последовательно приближают текущую стратегию к оптимальной. Для этого они увеличивают вероятность выбора вариантов стратегии, которые дают высокое итоговое вознаграждение. Одновременно с этим вероятность выбора вариантов стратегий с низким вознаграждением понижается. Примеры policy gradient методов:
+* **Proximal Policy Optimization** (PPO) — алгоритм оптимизации на основе градиента, который обучает нейронную сеть. Она называется **сеть стратегии** (policy network). Сеть принимает на вход состояние среды и выдаёт распределение вероятностей возможных действий. Агент выбирает действие, имеющее наибольшую вероятность.
 
-   * [REINFORCE](https://julien-vitay.net/deeprl/PolicyGradient.html#sec:reinforce)
+* **Trust Region Policy Optimization** (TRPO) — алгоритм оптимизации на основе градиента, который ограничивает изменения стратегии. Для этого на каждой итерации он контролирует расхождения между старой и новой политикой. Эти расхождения должны находится в доверительных пределах.
 
-   * [Trust Region Policy Optimization](https://julien-vitay.net/deeprl/NaturalGradient.html#sec:trust-region-policy-optimization-trpo) (TRPO)
+Популярны следующие алгоритмы, основанные на полезности:
 
-   * [Proximal Policy Optimization](https://julien-vitay.net/deeprl/NaturalGradient.html#sec:proximal-policy-optimization-ppo) (PPO)
+* **Q-learning** — фундаментальный value-based алгоритм. Он служит основой для многих других алгоритмов этой категории.
 
-* [Actor–critic](https://julien-vitay.net/deeprl/ActorCritic.html#sec:advantage-actor-critic-methods) — алгоритмы обучения этой группы приближают к оптимальной текущую стратегию и функцию полезности одновременно. Алгоритмы состоят из двух компонентов: actor (действующий объект) и critic (critic). Actor выполняет несколько действий, согласно выбранной стратегии. Critic вычисляет полезность состояний среды, которые стали доступны после действий actor. В зависимости от результатов critic, actor улучшает свою стратегию. После выполнения действий actor и расчёта фактических вознаграждений в новых состояниях среды, critic улучшает свою функцию полезности. Примеры actor–critic методов:
+* **Deep Q Network** (DQN) — это модификация алгоритма Q-learning, в которой применяется глубокое обучение (deep learning). Нейронная сеть используется для аппроксимации функции полезности действия. Этот алгоритм применяется для обучения агентов, которые должны действовать в сложных средах с большим числом состояний.
 
-   * [Advantage actor-critic](https://julien-vitay.net/deeprl/ActorCritic.html#sec:advantage-actor-critic-a2c) (A2C)
+* **Double Q-learning** — это модификация алгоритма Q-learning, которая решает его проблему с переоценкой действий. Суть проблемы в том, что в формуле Q-learning используется максимальное Q-значение за выполнение лучшего действия в новом состоянии среды `max ​Q(s′,a′)`. В результате в процессе обучения агент склонен выбирать действие с максимальной оценкой, даже если эта оценки слишком оптимистична и выше реальной. Double Q-learning алгоритм разделяет механизмы оценки и выбора действия во время обучения.
 
-   * [Asynchronous advantage actor-critic](https://julien-vitay.net/deeprl/ActorCritic.html#sec:asynchronous-advantage-actor-critic-a3c) (A3C)
-
-   * [Soft actor-critic](https://spinningup.openai.com/en/latest/algorithms/sac.html) (SAC)
-
-
-Рассмотренный нами метод называется [обучением с временной разницей](http://www.scholarpedia.org/article/Temporal_difference_learning) (temporal difference или TD learning). Семейство подобных методов называется [Q-learning](https://en.wikipedia.org/wiki/Q-learning).
-
-Кроме Q-learning сегодня популярны следующие основанные на полезности (value-based) методы:
-
-* [State-Action-Reward-State-Action](https://en.wikipedia.org/wiki/State–action–reward–state–action) (SARSA) — в отличие от Q-learning оценивает полезность не жадных ходов, а тех которые соответствуют наилучшей найденной в данный момент стратегией.
-
-* Deep Q Network (DQN) — использует нейронную сеть для нахождения функции полезности. Подходит для обучения агента действовать в дискретной среде.
-
-* Deep Deterministic Policy Gradient (DDPG) — использует две нейронные сети. Одна из них выбирает действия, а вторая даёт им оценку.
-
-Эта [статья](https://habr.com/ru/post/561746/) приводит их краткое описание.
+* [State-Action-Reward-State-Action](https://en.wikipedia.org/wiki/State–action–reward–state–action) (SARSA) — это вариация алгоритм Q-learning. В ней Q-значение для каждой пары "состояние-действие" обновляется на основе действия, которое будет выполнено в новом состоянии среды согласно текущей стратегии. В Q-learning это обновление происходит на основе действия, которое даст максимальное Q-значение в краткосрочной перспективе.
 
 {pagebreak}
