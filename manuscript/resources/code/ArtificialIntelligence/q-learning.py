@@ -274,9 +274,9 @@ def test_q_learning_agent(env, agent1, agent2):
             # Если игра закончена, вывести её результат
             if game_over:
                 if winner == 0:
-                    print("It's a draw!")
+                    print("Ничья!")
                 else:
-                    print(f"Player {'X' if winner == 1 else 'O'} wins!")
+                    print(f"Игрок {'X' if winner == 1 else 'O'} победил!")
 
                 # Завершить цикл while игры
                 break
