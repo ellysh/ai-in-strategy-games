@@ -60,7 +60,7 @@ class TicTacToe:
         # В противном случае игра не закончена
         return False, None
 
-    # Вывести на экран состояние доски
+    # Вывести на экран состояние игрового поля
     def print_board(self):
         for row in self.board:
             print(" ".join(["X" if cell == 1 else "O" if cell == -1 else "-" for cell in row]))
@@ -116,7 +116,7 @@ class QLearningAgent:
         self.q_table[state][action] = (1 - self.learning_rate) * self.q_table[state][action] + \
             self.learning_rate * (reward + self.discount_factor * max(self.q_table[next_state].values()))
 
-# Функция запуска обучения агента игре крестики-нолики
+# Функция запуска обучения двух агентов игре крестики-нолики
 def train_q_learning_agent(env, agent1, agent2):
 
     # Установить число эпизодов обучения
@@ -223,7 +223,7 @@ def train_q_learning_agent(env, agent1, agent2):
             history_counter += 1
 
 
-# Функция тестирования обученного агента
+# Функция тестирования двух обученных агентов
 def test_q_learning_agent(env, agent1, agent2):
 
     # Установить число эпизодов тестирования
