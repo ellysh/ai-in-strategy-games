@@ -277,7 +277,7 @@ I> **Гиперповерхность** — это геометрический 
 
 На практике применяют одну из этих готовых реализаций.
 
-Приложение 5.1.1 подробно описывает Python скрипт для классификации ирисов Фишера. Скрипт также доступен на страничке [Github](https://github.com/ellysh/ai-in-strategy-games/blob/master/manuscript/resources/code/ArtificialIntelligence/linear-classifier.py).
+Приложение 5.1.1 подробно описывает Python скрипт для классификации ирисов Фишера. Скрипт также доступен на [Github странице проекта](https://github.com/ellysh/ai-in-strategy-games/blob/master/manuscript/resources/code/ArtificialIntelligence/linear-classifier.py).
 
 ##### 2.6.2.1.2 Регрессия
 
@@ -358,7 +358,7 @@ I> **Гиперповерхность** — это геометрический 
 
 * [PyTorch](https://pytorch.org/docs/stable/generated/torch.linalg.lstsq.html)
 
-Приложение 5.1.2 подробно описывает Python скрипт для прогнозирования цен на автомобили. Скрипт также доступен на страничке [Github](https://github.com/ellysh/ai-in-strategy-games/blob/master/manuscript/resources/code/ArtificialIntelligence/linear-regression.py).
+Приложение 5.1.2 подробно описывает Python скрипт для прогнозирования цен на автомобили. Скрипт также доступен на [Github странице проекта](https://github.com/ellysh/ai-in-strategy-games/blob/master/manuscript/resources/code/ArtificialIntelligence/linear-regression.py).
 
 #### 2.6.2.2 Обучение без учителя
 
@@ -436,7 +436,7 @@ I> **Кластером** называется набор объектов, сх
 
 Если у магазина появится новый пользователь, по нему надо собрать статистику: какие категории товаров он чаще посещает. Затем эти данные надо добавить в обучающий набор и повторить алгоритм k-средних. Тогда предпочтения пользователя попадут в результат кластеризации. На основании этого результата алгоритм сайта магазина выберет подходящую рекламу.
 
-Приложение 5.1.3 подробно описывает Python скрипт для кластеризации методом k-средних. В этом примере обучающий набор данных сгенерирован случайным образом. Скрипт также доступен на страничке [Github](https://github.com/ellysh/ai-in-strategy-games/blob/master/manuscript/resources/code/ArtificialIntelligence/k-mean-clustering.py).
+Приложение 5.1.3 подробно описывает Python скрипт для кластеризации методом k-средних. В этом примере обучающий набор данных сгенерирован случайным образом. Скрипт также доступен на [Github странице проекта](https://github.com/ellysh/ai-in-strategy-games/blob/master/manuscript/resources/code/ArtificialIntelligence/k-mean-clustering.py).
 
 #### 2.6.2.3 Обучение с подкреплением
 
@@ -648,7 +648,7 @@ I> Одноруким бандитом называется [слот-машин
 
 После завершения обучения мы получим два агента для игры в крестики-нолики A и B.
 
-Приложение 5.1.4 подробно описывает Python скрипт с применением алгоритма Q-learning. Скрипт также доступен на страничке [Github](https://github.com/ellysh/ai-in-strategy-games/blob/master/manuscript/resources/code/ArtificialIntelligence/q-learning.py).
+Приложение 5.1.4 подробно описывает Python скрипт с применением алгоритма Q-learning. Скрипт также доступен на [Github странице проекта](https://github.com/ellysh/ai-in-strategy-games/blob/master/manuscript/resources/code/ArtificialIntelligence/q-learning.py).
 
 Какие алгоритмы обучения с подкреплением наиболее популярны? Среди алгоритмов, основанных на стратегии, чаще всего применяют следующие:
 

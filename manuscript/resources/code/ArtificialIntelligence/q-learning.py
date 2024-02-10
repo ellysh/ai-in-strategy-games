@@ -205,14 +205,14 @@ def train_q_learning_agent(env, agent1, agent2):
                 # Обновляем Q-значение для agent1 (X)
                 agent = agent1
 
-                # Если игра закончилась не в ничью, вознаграждение равно результату игры.
+                # Если игра закончилась не в ничью, совокупное вознаграждение равно результату игры.
                 # Иначе вознаграждение agent1 (X) равно 0.4
                 reward = result if result != 0 else 0.4
             else:
                 # Обновить Q-значение для agent2 (O)
                 agent = agent2
 
-                # Если игра закончилась не в ничью, вознаграждение равно инвертированному результату игры.
+                # Если игра закончилась не в ничью, совокупное вознаграждение равно инвертированному результату игры.
                 # Иначе вознаграждение agent2 (O) равно 0.5
                 reward = -result if result != 0 else 0.5
 
@@ -269,14 +269,14 @@ def test_q_learning_agent(env, agent1, agent2):
             env.print_board()
 
             # Прочитать состояние игры и её результат из объекта env класса среды TicTacToe
-            game_over, winner = env.is_game_over()
+            game_over, result = env.is_game_over()
 
             # Если игра закончена, вывести её результат
             if game_over:
-                if winner == 0:
+                if result == 0:
                     print("Ничья!")
                 else:
-                    print(f"Игрок {'X' if winner == 1 else 'O'} победил!")
+                    print(f"Игрок {'X' if result == 1 else 'O'} победил!")
 
                 # Завершить цикл while игры
                 break
