@@ -1018,7 +1018,7 @@ I> [**Темп обучения**](https://en.wikipedia.org/wiki/Learning_rate) 
 
 #### 3.6.4.3 Архитектура сети
 
->>> REWRITE
+>>>> REWRITE
 
 Архитектура нейронной сети AlphaZero очень похожа на сеть AlphaGo Zero. Эта архитектура подробно описана в статье [Mastering Go without Human Knowledge](https://discovery.ucl.ac.uk/10045895/1/agz_unformatted_nature.pdf).
 
