@@ -1,5 +1,5 @@
 ## 3.9 Резюме
 
-// TODO
+>>> REWRITE
 
 {pagebreak}
