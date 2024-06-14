@@ -27,7 +27,6 @@ mainmatter:
   Chess/stockfish.md
   Chess/alphazero.md
   Chess/man-vs-ai.md
-  Chess/summary.md
 
   finalwords.md
 
