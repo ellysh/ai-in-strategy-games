@@ -37,11 +37,11 @@ class TicTacToe:
         # Проходим по полям с 0-го по 2-е
         for i in range(3):
 
-            # Если в i-ом ряду или i-ом столбце все 1 — выиграл игрок X
+            # Если в i-м ряду или i-м столбце все 1 — выиграл игрок X
             if np.all(self.board[i, :] == 1) or np.all(self.board[:, i] == 1):
                 return True, 1
 
-            # Если в i-ом ряду или i-ом  столбце все -1 — выиграл игрок O
+            # Если в i-м ряду или i-м  столбце все -1 — выиграл игрок O
             elif np.all(self.board[i, :] == -1) or np.all(self.board[:, i] == -1):
                 return True, -1
 
